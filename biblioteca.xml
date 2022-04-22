@@ -7,7 +7,7 @@
         <anyo>2012</anyo> 
         <editorial>Planeta</editorial> 
     </libro> 
-    <librocod="2"> 
+    <libro cod="2"> 
         <titulo>Libro 2</titulo> 
         <autor>Autor 2</autor> 
         <anyo>2022</anyo> 
